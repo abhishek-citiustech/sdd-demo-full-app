@@ -1,0 +1,1 @@
+3 independent tasks: (1) add pagination (page, pageSize) to GET /api/authorizations in AuthorizationsController.cs, (2) add server-side validation in POST /api/authorizations using DTOs/Dtos.cs, (3) add loading spinner + error banner to DashboardPage.tsx. Separate PRs, no shared files.
